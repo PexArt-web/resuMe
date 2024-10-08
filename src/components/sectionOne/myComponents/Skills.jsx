@@ -1,4 +1,5 @@
 const Skills = () => {
+  //
   return (
     <section className=" bg-gray-800 p-8 shadow-md max-w-3xl mx-auto rounded-b-lg">
       <h2 className="text-2xl md:text-3xl font-bold text-gray-100 mb-4">

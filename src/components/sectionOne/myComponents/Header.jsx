@@ -1,7 +1,10 @@
 const Header = () => {
   return (
     <header className="bg-gray-900 text-gray-200 p-6 text-center rounded-t-lg">
-      <h2 className="text-3xl md:text-4xl lg:text-4xl font-bold">
+      <a href="https://pexdomain.netlify.app/" className="hover:underline ">
+        https://pexdomain.netlify.app/
+      </a>
+      <h2 className="text-3xl md:text-4xl lg:text-4xl font-bold mt-3">
         Pelumi Adeayo
       </h2>
       <p className="text-lg md:text-xl lg:text-2xl mt-2">
