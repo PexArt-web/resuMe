@@ -3,7 +3,7 @@ import Profile from "./Profile";
 function App() {
   return (
     <>
-      <div className="">
+      <div>
         <Profile />
       </div>
     </>
