@@ -1,11 +1,11 @@
-import Exrience from "./myComponents/Experience"
+import Exrience from "./myComponents/Experience";
 
 const SectionTwo = () => {
   return (
     <div>
-      <Exrience/>
+      <Exrience />
     </div>
-  )
-}
+  );
+};
 
-export default SectionTwo
+export default SectionTwo;

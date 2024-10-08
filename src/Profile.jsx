@@ -7,7 +7,6 @@ const Profile = () => {
       <SectionOne />
       <div className="h-auto w-2 bg-gray-500 mx-3 self-stretch hidden md:block"></div>
       <hr className="border-t border-gray-300 my-2 md:hidden" />
-      
       <SectionTwo />
     </div>
   );

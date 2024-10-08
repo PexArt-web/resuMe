@@ -1,11 +1,10 @@
 import Profile from "./Profile";
 
-
 function App() {
   return (
     <>
       <div className="">
-       <Profile/>
+        <Profile />
       </div>
     </>
   );
