@@ -56,7 +56,7 @@ const Education = () => {
               d="M12 8c-1.654 0-3 .895-3 2s1.346 2 3 2 3-.895 3-2-1.346-2-3-2zM9 16h6M9 6h6M12 20v2m-7 2a2 2 0 01-2-2m18 0a2 2 0 01-2-2m2 0a9 9 0 11-18 0m2 0a2 2 0 002-2m0 0a2 2 0 012-2m4 0a2 2 0 012-2m0 0a2 2 0 002-2"
             />
           </svg>
-          <span>2022 - 2024</span>
+          <span>2023 - 2024</span>
         </div>
         <p className="text-gray-300 mt-2">
           Completed a comprehensive coding program at SQI ICT Academy, where I
