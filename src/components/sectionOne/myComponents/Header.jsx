@@ -26,7 +26,7 @@ const Header = () => {
           GitHub: https://github.com/PexArt-web
         </a>
         <a href="https://www.linkedin.com/in/pelumi-adeayo-09a1a5315/"className="hover:underline">LinkedIn :https://www.linkedin.com/in/pelumi-adeayo-09a1a5315 </a>
-        {/* <a href="https://portfolio.com" className="hover:underline">Portfolio</a>*/}
+        {/* <a href="https://Myportfolio.com" className="hover:underline">Portfolio</a>*/}
       </div>
     </header>
   );
